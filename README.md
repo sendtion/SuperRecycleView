@@ -1,5 +1,7 @@
 # SuperRecyclerView #
 
+[![](https://jitpack.io/v/sendtion/SuperRecycleView.svg)](https://jitpack.io/#sendtion/SuperRecycleView)
+
 **SuperRecycleView** is a combines XrecycleView and CymChad / BaseRecyclerViewAdapterHelper. If you use SuperRecycleView, you can pullrefresh,load more easier with a reference. More convenient to bind the data.
 
 # Screenshots #
@@ -12,7 +14,7 @@
 
 gradle
 
-	compile 'com.supercwn.superrecycleview:superlibrary:1.2.5'
+	implementation 'com.github.sendtion:SuperRecycleView:1.0.0'
 
 #RefreshAndLoadMore#
 
